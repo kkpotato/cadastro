@@ -1,0 +1,17 @@
+# 5. interação com o usuario
+# para cada interaçao que tivermos com o usuario, usamos a funçao inpu().
+print("Bem vindo ao sistema de cadastro da nossa plataformasta start strong!")
+nome_usuario = input("Digite seu Nome completo:")
+cpf_usuario = input("Digite seu CPF:")
+idade_usuario= input("Digite sua Idade:")
+peso_usuario = input("Digite seu peso em kg:")
+altura_usuario= input("Digite sua altura Metros:")
+objetivo_treino = input("Digite seu objetivo de treino:")
+print("Bem Vindo ao sistema de cadastro da nossa academia start strong!")
+print("Confirme seus dados pessoais cadastrados:")
+print("Nome:",nome_usuario)
+print("Seu CPF:",cpf_usuario)
+print("Sua idade:",idade_usuario)
+print("Seu peso:",peso_usuario,"KG")
+print("sua altura:",altura_usuario,"Metros")
+print("seu objetivo:",objetivo_treino)
